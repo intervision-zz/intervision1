@@ -30,6 +30,6 @@
 <h1>Відеоспостереження</h1>
 
 <a href="https://intervision.ua" rel="dofollow">відеоспостереження</a>
-
+<li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
 </body>
 </html>
