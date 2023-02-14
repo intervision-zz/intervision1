@@ -29,7 +29,7 @@
 
 <h1>Відеоспостереження</h1>
 
-<a href="https://intervision.ua">відеоспостереження</a>
+<a href="https://intervision.ua" rel="dofollow">відеоспостереження</a>
 
 </body>
 </html>
